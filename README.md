@@ -1,7 +1,7 @@
 # PIG (dice game)
 
 ## ABOUT THE PROJECT
-This is my first "serious" front-end project which I've decided to upload to GitHub. It is a part of the "Complete Javascript course" taught by Jonas Schmedtmann at Udemy. Basically it was a follow-along video course in basic JS coding. The HTML, CSS and JavaScript code uploaded to this repository is almost completely identical to the code provided in the course. I am still learning the basics of web design and my approach for now is to copy other people's code and try to understand it by reproducing it. I am aware that this code probably looks ridiculously simplistic to experienced web designers, but for me it was a valuable teaching experience and I'm proud of how much I've accomplished so far in my learning path.
+This is my first "serious" front-end project which I've decided to upload to GitHub. It is a part of the "Complete Javascript course" taught by Jonas Schmedtmann at Udemy. Basically it was a follow-along video course in basic JS coding. The HTML, CSS and JavaScript code uploaded to this repository is almost completely identical to the code provided in the course.
 
 ## ABOUT THE GAME
 The following description of the game is taken from [Wikipedia.](https://en.wikipedia.org/wiki/Pig_dice_game)
